@@ -15,6 +15,7 @@ We recommend submitting translations of non-official packs to the respective add
 - **Korean**: [Tensa](https://github.com/10sa)
 - **Russian**: [Blueberryy](https://github.com/Blueberryy)
 - **Czech**: [BlacK](https://github.com/SemixOfficial)
+- **Ukrainian**: [Spector_Kemono](https://github.com/Spector-Kemono)
 
 ### Base Pack (Content)
 
@@ -23,15 +24,18 @@ We recommend submitting translations of non-official packs to the respective add
 - **English - Pirate**: Fesiug
 - **Russian**: [Blueberryy](https://github.com/Blueberryy)
 - **Czech**: [BlacK](https://github.com/SemixOfficial)
+- **Ukrainian**: [Spector_Kemono](https://github.com/Spector-Kemono)
 
 ### CS+
 
 - **Simplified Chinese**: 8Z
 - **Russian**: [Blueberryy](https://github.com/Blueberryy)
 - **Czech**: [BlacK](https://github.com/SemixOfficial)
+- **Ukrainian**: [Spector_Kemono](https://github.com/Spector-Kemono)
 
 ### GSO
 - **Czech**: [BlacK](https://github.com/SemixOfficial)
+- **Ukrainian**: [Spector_Kemono](https://github.com/Spector-Kemono)
 
 ## How to Contribute
 
